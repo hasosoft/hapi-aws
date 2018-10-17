@@ -1,6 +1,6 @@
 {
   "name": "hapi-aws",
-  "version": "2.0.0",
+  "version": "0.1.6",
   "description": "AWS plugin for HapiJS.",
   "main": "lib/index.js",
   "config": {
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https:git@github.com:ar4mirez/hapi-aws.git"
+    "url": "https:git@github.com:hasosoft/hapi-aws.git"
   },
   "author": "Angel Ramirez <angel@cuemby.com>",
   "license": "LICENSE.md",
   "bugs": {
-    "url": "https://github.com/ar4mirez/hapi-aws/issues"
+    "url": "https://github.com/hasosoft/hapi-aws/issues"
   },
-  "homepage": "https://github.com/ar4mirez/hapi-aws",
+  "homepage": "https://github.com/hasosoft/hapi-aws",
   "devDependencies": {
     "code": "^5.2.0",
     "codecov": "^3.0.2",
